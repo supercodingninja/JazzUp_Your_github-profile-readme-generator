@@ -1,3 +1,7 @@
+I forked this repository over, in order to create a better design for myself; and I hope to collaborate on this repository.  Thanks, Rahul!
+
+
+
 <p align="center">
   <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
